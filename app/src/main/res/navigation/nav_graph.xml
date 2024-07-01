@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/kullaniciFragment">
+
+    <fragment
+        android:id="@+id/kullaniciFragment"
+        android:name="com.example.sharephoto.view.KullaniciFragment"
+        android:label="fragment_kullanici"
+        tools:layout="@layout/fragment_kullanici" >
+        <action
+            android:id="@+id/feedGecis"
+            app:destination="@id/feedFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/feedFragment"
+        android:name="com.example.sharephoto.view.FeedFragment"
+        android:label="fragment_feed"
+        tools:layout="@layout/fragment_feed" >
+        <action
+            android:id="@+id/paylasGecis"
+            app:destination="@id/yuklemeFragment" />
+        <action
+            android:id="@+id/feeddenKullaniciGecis"
+            app:destination="@id/kullaniciFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/yuklemeFragment"
+        android:name="com.example.sharephoto.view.YuklemeFragment"
+        android:label="fragment_yukleme"
+        tools:layout="@layout/fragment_yukleme" >
+        <action
+            android:id="@+id/paylastanFeedGecis"
+            app:destination="@id/feedFragment" />
+    </fragment>
+</navigation>

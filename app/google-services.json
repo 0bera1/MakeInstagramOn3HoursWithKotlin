@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128459072950",
+    "project_id": "sharephoto-6266c",
+    "storage_bucket": "sharephoto-6266c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128459072950:android:51dd576415b17075d84d17",
+        "android_client_info": {
+          "package_name": "com.example.sharephoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcm20nUPkTrRwOT7SWDGT5pyvfcApx-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
