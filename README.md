@@ -21,6 +21,7 @@ Home page and pop-up menu ![Ekran görüntüsü 2024-07-01 135505](https://githu
 Upload image & comment Page ![Ekran görüntüsü 2024-07-01 135541](https://github.com/0bera1/MakeInstagramOn3HoursWithKotlin/assets/102685755/e83fbdf3-13f6-479b-97a6-a42267da071e)
 
 
-and result --> https://github.com/0bera1/MakeInstagramOn3HoursWithKotlin/assets/102685755/4d3f4202-1eaa-4e2e-b835-6133ad104959
+and result --> 
 
+https://github.com/0bera1/MakeInstagramOn3HoursWithKotlin/assets/102685755/b2882878-a554-4d97-90cf-5a00d14a9885
 
