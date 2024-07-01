@@ -1,6 +1,5 @@
 
 
-https://github.com/0bera1/MakeInstagramOn3HoursWithKotlin/assets/102685755/d758500f-cb01-41d6-b2f7-9fb24b01e4c3
 
 Make Instagram On 3 Hours With Kotlin for beginners.
 
